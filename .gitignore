@@ -1,2 +1,4 @@
 *KEY*
 __pycache__/
+*.png
+*checkpoint.py
